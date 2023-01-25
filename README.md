@@ -18,7 +18,7 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/bhashibandara95" target="blank">
+<a href="https://www.linkedin.com/in/bhashibandara95" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LINKEDIN" height="50" width="50" />
 </a>
 <a href="mailto:amandabhashitha95@gmail.com" target="blank">
