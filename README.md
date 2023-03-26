@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/bhashibandara95" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LINKEDIN" height="50" width="50" />
 </a>
-<a href="mailto:amandabhashitha95@gmail.com" target="blank">
+<a href="mailto:ugabkanishka@gmail.com" target="blank">
 <img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="GMAIL" height="50" width="50" />
 </a>
 </p>
