@@ -56,7 +56,6 @@
 </p>
 <h3 align="center">Others</h3>
 <p align="center">
-<img src="https://www.deta.sh/dist/images/favicon.png" alt="deta cloud" width="100" height="100" title="Deta Cloud"/>
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="100" height="100"/>
