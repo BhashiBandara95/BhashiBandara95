@@ -1,7 +1,7 @@
 <h1 align="center">Bhashitha Kanishka Bandara</h1>
 <img align="center" alt="Coding" height="500" width="1000" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="center"> Hi,👋,  I'm  Bhashitha Kanishka Bandara  , a driven and self-motivated Information Technology student at the Institute of Technology, University of Moratuwa. From a young age, I've been fascinated by technology and have always been drawn to problem-solving. I knew that software engineering was the right career path for me. </p>
+<p align="center"> Hi,👋,  I'm  Bhashitha Kanishka Bandara, a driven and self-motivated Information Technology student at the Institute of Technology, University of Moratuwa. From a young age, I've been fascinated by technology and have always been drawn to problem-solving. I knew that software engineering was the right career path for me. </p>
 <p align="center"> Continuously improving my skills in React.js, Node.js, and Java. In addition to these programming languages, I'm familiar with frameworks such as FastAPI, Express.js, Spring Boot and React.js. </p>
 <p align="center"> I'm always looking for new challenges and opportunities to grow, and I'm excited to connect and collaborate with like-minded individuals. You can check out my work on GitHub at https://github.com/BhashiBandara95. Thank you for visiting my profile! </p>
 
