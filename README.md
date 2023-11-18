@@ -42,7 +42,7 @@
 </td>
 <td width="50%" align="center">
 
-<img height="250" width="400" alt="GIF" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img height="400" width="500" alt="GIF" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 </td>
 </tr>
