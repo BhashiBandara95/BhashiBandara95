@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>, I'm Bhashitha Kanishka Bandara</h1>
-<h3 align="center">I am an IT Undergraduate 💻</h3>
-<h4 align="center">Enthusiast in learning new technologies 😍</h4>
+<h2 align="center">I am an IT Undergraduate 💻</h2>
+<h3 align="center">Enthusiast in learning new technologies 😍</h3>
 
 <p align="left">
 <a href="https://github.com/bhashibandara95/bhashibandara95">
