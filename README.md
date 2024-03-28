@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **amandabhashitha95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- <!-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive) -->
 
 - ⚡ Fun fact **I'm interested in traveling and making memories each second in my life.**
 
